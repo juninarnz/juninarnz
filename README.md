@@ -33,7 +33,3 @@
 <p>Você pode me encontrar aqui no GitHub ou enviar uma mensagem na escola 😊</p>
 
 <hr>
-
-<p align="center">
-  <em>Esse é meu primeiro README, feito com ajuda do professor!</em>
-</p>
