@@ -2,8 +2,8 @@
 
 <!-- Logo do colégio -->
 <p align="center">
-  <img src=""![v2_4e92c3f1-6efd-496e-8271-c5b2eebae68c](https://github.com/user-attachments/assets/4e883fe2-2397-4dad-90e7-a6f732686eb2)
-![v2_4e92c3f1-6efd-496e-8271-c5b2eebae68c](https://github.com/user-attachments/assets/5ae3bdaf-c33b-4736-b6be-b7562abf4c65)
+  <img src="![v2_4e92c3f1-6efd-496e-8271-c5b2eebae68c](https://github.com/user-attachments/assets/4e883fe2-2397-4dad-90e7-a6f732686eb2)
+![v2_4e92c3f1-6efd-496e-8271-c5b2eebae68c](https://github.com/user-attachments/assets/5ae3bdaf-c33b-4736-b6be-b7562abf4c65)"
  alt="Logo do Colégio" width="150"/>
 </p>
 
