@@ -27,9 +27,4 @@
   <li>✔️ Criar repositórios e editar arquivos</li>
   <li>✔️ Escrever em Markdown e HTML</li>
 </ul>
-
-<h2>📫 Como falar comigo</h2>
-
-<p>Você pode me encontrar aqui no GitHub ou enviar uma mensagem na escola 😊</p>
-
 <hr>
